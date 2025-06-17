@@ -6,7 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace ExamProject
+namespace NumberGuess
 {
     public partial class MainForm : Form
     {
